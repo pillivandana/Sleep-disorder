@@ -120,7 +120,7 @@ st.write("""
 """)
 
 # %%
-pip install streamlit
+
 
 
 
